@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecyclerView_Layouts</string>
+    <string name="imgs_url">https://api.unsplash.com/photos/?client_id=EMZwaCIR1yFaOu1bbveHd6_xa3CnIiVbdYTSzLeq7Q0&amp;per_page=30</string>
+    <string name="urls">urls</string>
+    <string name="regular">regular</string>
+    <string name="full">full</string>
+    <string name="error_msg">Something Went Wrong. Cannot fetch images!</string>
+    <string name="grid_fragment">GridFragment</string>
+</resources>
